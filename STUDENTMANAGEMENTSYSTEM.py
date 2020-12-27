@@ -13,7 +13,7 @@ else:
     print("{}. denemeniz" .format(count))
     count += 1
     if count == 4:
-        print('3 denemeniz de başarısız oldu! Bye!')
+        print('3 deneme hakkınızda bitmiştir.Lütfen daha sonra tekrar deneyiniz!!!')
 
 dersler={"1:matematik","2:biyoloji","3:fizik","4:kimya","5:teknik çizim","6:yazılım"}
 derssayısı=len(dersler)
